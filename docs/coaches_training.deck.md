@@ -1,29 +1,26 @@
-# ClojureBridge Coaches Training
+# RailsGirls Coaches Training
 
-# Today's Agenda
+# Why are we here?
 
-### Background and Practicalities
+* Improve your coaching skills
+* Make you confident in being a coach
+* Make you creators of safe spaces for attendees
+* Make coaching a better experience for you
+* Increase your fun potential
 
-### Discussion Topics & Coaching Tips
 
-# What is this?
+# What are we doing today?
 
-You're probably at a coaches training for ClojureBridge.
+* Share knowledge and experiences
+* Discuss!
 
-This slide deck is a tool to facilitate conversations about coaching best practices and challenges, specifically for ClojureBridge workshops.
 
-It helps to have a whiteboard or those giant sticky notes for the discussions if possible.
+# What is even the idea behind RailsGirls?
 
-### Discussion is key!
-### Don't let the presenter(s) do all the talking!
+* Everyone benefits form diversity
+* RailsGirls contributes by closing the gender gap in tech
+* Throw free workshops and hackdays for women
 
-# Why ClojureBridge?
-We're making tech more diverse and more welcoming!
-
-### How?
-* We throw super-welcoming, fun, free workshops.
-* We provide great networking opportunities for students and volunteers.
-* We help our volunteers become more empathatic and better communicators.
 
 # Introductions
 ### Who are you?
@@ -33,33 +30,18 @@ We're making tech more diverse and more welcoming!
 * What's your favorite place in Berlin?
 * What's the most non-coding thing you do?
 
-# What's a ClojureBridge?
 
-Raise your hand if you've been to a workshop before!
-
-### RailsBridge Fun Facts
-
-* Founded in 2009
-* Its goal: make the community more diverse and more welcoming to newcomers.
-* Since 2012 backed by Bridge Foundry,
-* Also does MobileBridge, ng-bridge, Teaching Kids, and ... ClojureBridge!
-
-### ClojureBridge
-
-* First workshop April 2014
-* Since then 14 workshops in the US, Australia, Scotland, Finland, Sweden, and now Germany
 
 # How does a workshop work?
 
-On Friday, we get all the necessary technologies onto the students' computers (the Installfest).
+On Thursday, we get all the necessary technologies onto the students' computers (the Installfest).
 
 The next day we start with a general introduction, then break into small groups and work through the curriculum, with some talks and breaks in between.
 
-We follow the official curriculum, which starts with a step by step tutorial of Clojure, followed by an easy and a more advanced Quill app. If you have a more advanced group you can move through the first part more quickly. You get as far as you get, don't rush to "finish" things.
+The organizers will announce the agenda and keep an eye on time.
 
-# Installfest!
+We follow the official curriculum, which starts with a step by step tutorial of Ruby basics, followed by a Rails app. If you have a more advanced group you can move through the first part more quickly. You get as far as you get, don't rush to "finish" things.
 
-We recommend Cursive as editor. Of course if people have their own preference then that's fine.
 
 #### Keep in mind:
 
@@ -68,45 +50,9 @@ We recommend Cursive as editor. Of course if people have their own preference th
 * Do NOT say bad things about Windows, even if it's frustrating.
 * If you're not sure about something, grab another volunteer.
 
-# Typical ClojureBridge Schedule
 
-* Friday, 6-10pm-ish: Installfest: installing software over pizza & drinks
+# Interaction with the attendees
 
-* Saturday's schedule (details still being worked out)
-
- * 9-9:30am: Check-in, coffee, small breakfast
- * 9:30-10am: Opening presentation
- * 10am-12:30pm: Class!
- * 12:30-1:30pm: Lunch & lightning talks
- * 1:30pm-4:30pm: Class! (with a break sometime mid-afternoon)
- * 4:30-5:00pm: Closing presentation & retros
- * 5:00pm-...: Free to hang around and socialize
-
-# Is ClojureBridge Open Source?
-
-### WHY YES, THANK YOU FOR ASKING!
-### CLOJUREBRIDGE IS VERY OPEN SOURCE!
-
-All the materials you're using were created by volunteers, and are on GitHub for forking and editing and using!
-
-If you see something that could be better, make a pull request. Pull requests are the lifeblood of ClojureBridge.
-
-If you don't know how to make one, we'll help!
-
-# Discussion Topics
-
-# How to make your class awesome
-
-How to make your class awesome? We created some arbitrary categories for discussion. We'll go through each one, and get input from the group (whiteboard \o/), and then provide some additional ideas and suggestions.
-
-### Social Comfort
-### Technical Capability
-### Do you know what's up?
-### Challenges
-### Coaching
-### Comprehension
-
-# Discussion: Social Comfort
 
 #### Imagine:
 * You're trying to do something difficult
@@ -119,9 +65,6 @@ How to make your class awesome? We created some arbitrary categories for discuss
 #### How can we help make this easier?
 #### How can you help people feel socially comfortable?
 
-DISCUSS!
-
-# Social Comfort (Ideas)
 
 #### Introductions
 * Include name, profession, why are you here / goals for today's class, and something silly.
@@ -132,7 +75,6 @@ DISCUSS!
 * Name games! Admit up front that most people are bad at learning new names.
 * Get people talking. The more comfortable they are at talking, the more likely they'll speak up when they don't understand something, or to answer someone else's question.
 
-# Social Comfort (More Ideas)
 #### Try to suppress your (understandable) culturally-influenced sexism
 * Don't hit on people. No sexual advances. None. Even at the after-party.
 * Don't make sexist jokes. Or racist, classist, or ableist jokes. Call people out if they do. A simple "That's not funny" and moving on quickly with the conversation will often suffice.
@@ -140,7 +82,6 @@ DISCUSS!
 * Don't make references to people's bodies or state your opinion of them.
 * Don't use slurs.
 
-# Social Comfort (Even More Ideas)
 #### Represent the diverse and welcoming community we stand for
 * Don't mock other languages or technologies.
 * Leave your nerdy flame wars at the door.
@@ -153,9 +94,7 @@ DISCUSS!
 ### What kinds of insecurities might your student have?
 ### How can you bolster their confidence?
 
-DISCUSS!
 
-# Technical Capability (Ideas)
 
 #### Being confused is normal
 #### Explore and have fun
@@ -164,7 +103,6 @@ DISCUSS!
 #### Be super positive
 #### Walk the middle path
 
-# Technical Capability (Ideas)
 
 #### Explain that
 * Not knowing stuff is normal, even the pros spend half their day googling
@@ -174,7 +112,6 @@ DISCUSS!
 * No need to make things perfect. Just build stuff, have fun!
 * Mistakes == Learning!
 
-# Technical Capability (Ideas)
 
 #### Dealing with technical concepts
 
@@ -183,22 +120,17 @@ DISCUSS!
 * Remember people's backgrounds (Javascript, Ruby, Java, HTML/CSS,) and relate where possible.
 * Don't be afraid to use metaphors. If they are a cook, try a cooking analogy.
 
-# Technical Capability (More Ideas)
 #### Encourage collaboration and interaction
 * Explicitly encourage students to try to answer each other's questions.
 * If a question is asked, ask if anyone in the class thinks they can explain.
 * Be especially encouraging of the first few questions, to try to get things rolling.
 * Good responses to questions: "I'm glad you asked!" or "I actually wondered that, too." or "Great question!"
 
-# Technical Capability (More Ideas)
-
 #### Be Super Positive, Always
 * Students have diverse backgrounds. Appreciate this fact.
 * If they aren't getting a concept, avoid anything that might shame them.
 * Don't be surprised when someone hasn't heard of something before.
 * Don't grab anyone's keyboard. Avoid taking over unless you think it's *really* necessary. Ask before you do. "Mind if I drive for a sec?" But really, don't.
-
-# Technical Capability (Even More Ideas)
 
 #### Walk the Middle Path
 * Don't go too deep for your class level, but also, don't gloss over things.
@@ -213,24 +145,13 @@ DISCUSS!
 #### What are things you can do to help the students trust you?
 #### What are some things to avoid?
 
-DISCUSS!
 
-# Know What's Up (Ideas)
-#### Know what's going on
-* Cover logistics at the beginning of class
-  * Planned breaks, lunch time
-  * Remind students that there is a closing presentation at the end
-  * Make sure they know where the bathroom is
-  * Let them know they can hang around and socialize afterwards
-
-# Know What's Up (Ideas)
 #### Establish a few ground rules
 * Questions are always welcome, even if the student thinks it might be dumb. "That's a **GREAT** question"
 * Explain that if someone has trouble (e.g., not getting the expected output), the coaches will help troubleshoot.
 * If anyone wants to switch classes, tell them they should feel TOTALLY COMFORTABLE switching at any point.
 * Breaks are a good time to have a look at what other groups are doing.
 
-# Know What's Up (More Ideas)
 #### Don't be afraid to:
 * Call on people! By name!
 * Correct people if they're wrong. Be polite and encouraging. For instance:
@@ -240,7 +161,6 @@ DISCUSS!
   * "Ah, I see what you're trying to do."
 * Ask yourself questions and answer them.
 
-# Know What's Up (Even More Ideas)
 #### Pace yourself!
 * Don't go too fast. You will probably go too fast. Check in occasionally to ensure everyone is still with you.
 * You can say the same thing THREE TIMES and it will not be boring yet.
@@ -250,12 +170,6 @@ DISCUSS!
 # Discussion: Challenges
 Talk about what problems you might anticipate, and what to do about them.
 
-#### Some issues:
-* Student is in the wrong class level
-* Student is disruptive
-* Student is disengaged
-
-DISCUSS!
 
 # Discussion: Coaching
 
@@ -263,20 +177,12 @@ DISCUSS!
 #### How can you divide the roles between the coaches?
 #### How can you get a good dynamic between the whole team, both attendees and coaches?
 
-DISCUSS!
-
-# Build a Team
-
-* ClojureBridge normally makes a distinction between coaches and TAs (teaching assistants).
-* We will try to form groups with two coaches per group.
-* You can decide on one coach to take the lead, or you can tag-team.
-* There will also be some "floating" TAs that can go around ang help.
-
 # Coaching Dynamics (Ideas)
 
-* Talk with your co-coach beforehand to set expectations
-* It can make sense to have one person take the lead
-* The other coach can give more individual assistance
+* Talk with your co-coach beforehand to set expectations.
+* You can decide on one coach to take the lead.
+* It can make sense to have one person take the lead.
+* The other coach can give more individual assistance.
 * Swap these roles around if it makes sense. Find a healthy dynamic!
 
 # Co-coaching (Some Ideas)
@@ -291,8 +197,6 @@ DISCUSS!
 #### What are good questions to ask to check comprehension?
 #### What did your favorite coaches do to gauge understanding?
 
-DISCUSS!
-
 # Student Comprehension
 * Pay attention to body language.
 * People ask questions most often when they are actively processing material. If they aren't, it might be that the material is too easy or hard. Try to figure out which it is!
@@ -304,22 +208,3 @@ DISCUSS!
 * Ask people what they expect a command to produce BEFORE you hit enter.
 * Ask "How would you do \#\{this\}?" or "If I wanted to do \#\{that\}, what would I do?"
 
-# Practical Recap
-
-Installfest: Friday **10 July, 17:00**
-
-Workshop: Saturday **11 July**, doors open at **9:00**, starts at 9:30
-
-&nbsp;
-
-Location: **6Wunderkinder office**
-
-Karl-Liebknecht-Straße 32
-
-Around the corner from **Alexanderplatz**.
-
-&nbsp;
-
-Don't forget: laptop, powercord
-
-Go through the curriculum at home.
