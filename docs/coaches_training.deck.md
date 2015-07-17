@@ -31,7 +31,6 @@
 * What's the most non-coding thing you do?
 
 
-
 # How does a workshop work?
 
 On Thursday, we get all the necessary technologies onto the students' computers (the Installfest).
@@ -89,19 +88,10 @@ We follow the official curriculum, which starts with a step by step tutorial of 
 * Be genuinely interested in people's experiences. ("You built something? That's cool. What does it do?")
 * Appreciate that different technologies have different trade-offs. Being easily accessible is one of them.
 
-# Discussion: Technical Capability
+
 ### How can you help people feel technically capable?
 ### What kinds of insecurities might your student have?
 ### How can you bolster their confidence?
-
-
-
-#### Being confused is normal
-#### Explore and have fun
-#### Define concepts
-#### Encourage interaction
-#### Be super positive
-#### Walk the middle path
 
 
 #### Explain that
@@ -114,7 +104,6 @@ We follow the official curriculum, which starts with a step by step tutorial of 
 
 
 #### Dealing with technical concepts
-
 * Define technical terms! Several times!
 * Assume anyone you're coaching has zero knowledge but infinite intelligence.
 * Remember people's backgrounds (Javascript, Ruby, Java, HTML/CSS,) and relate where possible.
@@ -139,7 +128,6 @@ We follow the official curriculum, which starts with a step by step tutorial of 
 * Explain the big picture of a command *before* they type it in.
   * i.e., before typing the command to deploy to Heroku, explain the difference between localhost and Heroku.
 
-# Discussion (Do you know what's up?)
 
 #### How can you help people feel like you know what's going on?
 #### What are things you can do to help the students trust you?
@@ -169,7 +157,6 @@ We follow the official curriculum, which starts with a step by step tutorial of 
 
 # Discussion: Challenges
 Talk about what problems you might anticipate, and what to do about them.
-
 
 # Discussion: Coaching
 
