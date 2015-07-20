@@ -17,7 +17,7 @@
 
 # What is even the idea behind RailsGirls?
 
-* Everyone benefits form diversity
+* Everyone benefits from diversity
 * RailsGirls contributes by closing the gender gap in tech
 * Throw free workshops and hackdays for women
 
@@ -25,7 +25,7 @@
 # Introductions
 ### Who are you?
 * What's your name?
-* Have you been to a ClojureBridge or similar workshops before? How many?
+* Have you been to a RailsGirls or similar workshops before? How many?
 * What do you do for a living? Care to share who you work for?
 * What's your favorite place in Berlin?
 * What's the most non-coding thing you do?
@@ -42,7 +42,7 @@ The organizers will announce the agenda and keep an eye on time.
 We follow the official curriculum, which starts with a step by step tutorial of Ruby basics, followed by a Rails app. If you have a more advanced group you can move through the first part more quickly. You get as far as you get, don't rush to "finish" things.
 
 
-#### Keep in mind:
+# Keep in mind:
 
 * There will be people with _all_ kinds of computers.
 * Even though Windows might not be your preferred development environment, we're here to encourage people and meet them wherever they are right now.
@@ -103,6 +103,7 @@ We follow the official curriculum, which starts with a step by step tutorial of 
 * Mistakes == Learning!
 
 
+
 #### Dealing with technical concepts
 * Define technical terms! Several times!
 * Assume anyone you're coaching has zero knowledge but infinite intelligence.
@@ -133,6 +134,9 @@ We follow the official curriculum, which starts with a step by step tutorial of 
 #### What are things you can do to help the students trust you?
 #### What are some things to avoid?
 
+
+BREAK
+http://i.giphy.com/vYtIhwaPVejPq.gif
 
 #### Establish a few ground rules
 * Questions are always welcome, even if the student thinks it might be dumb. "That's a **GREAT** question"
@@ -195,3 +199,4 @@ Talk about what problems you might anticipate, and what to do about them.
 * Ask people what they expect a command to produce BEFORE you hit enter.
 * Ask "How would you do \#\{this\}?" or "If I wanted to do \#\{that\}, what would I do?"
 
+GIF
