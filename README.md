@@ -1,10 +1,6 @@
-# ClojureBridge Berlin Website
+# RailsGirls Coach the Coaches
 
-This is our website to document our events even when they disappear from the main clojurebridge.org website.
-
-https://www.clojurebridge-berlin.github.io
-
-## Coaches Training slides
+Based on the [slides from the lovely people at ClojureBridge Berlin](https://github.com/clojurebridge-berlin/clojurebridge-berlin.github.io/blob/master/docs/coaches_training.deck.md)
 
 The source document lives under `docs/coaches_training.deck.md`. To recreate the HTML use
 
@@ -12,3 +8,11 @@ The source document lives under `docs/coaches_training.deck.md`. To recreate the
 gem install deckrb
 deck -b docs/coaches_training.deck.md
 ```
+
+Then rename the file index.html like so
+
+```
+mv coaches_training.deck.html index.html
+```
+
+And push to gh-pages to deploy.
