@@ -1,5 +1,7 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
 .deck-container {
-  font-family: "Helvetica Neue", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 2.1em;
   background: #fff;
 }
