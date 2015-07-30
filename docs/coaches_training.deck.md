@@ -127,7 +127,7 @@
 ![Let's take a break](http://i.giphy.com/vYtIhwaPVejPq.gif)
 
 # Establish a few ground rules
-* Questions are always welcome, even if the student thinks it might be dumb. "That's a **GREAT** question"
+* Questions are always welcome, even if the student thinks it might be stupid. "That's a **GREAT** question"
 * Explain that if someone has trouble (e.g., not getting the expected output), the coaches will help troubleshoot.
 * If anyone wants to switch classes, tell them they should feel TOTALLY COMFORTABLE switching at any point.
 * Breaks are a good time to have a look at what other groups are doing.
